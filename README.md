@@ -3,6 +3,6 @@
 And I am a career changer. 
 
 - 🌱 I’m currently pursuing a Front-End Developer career
-- 👯 I’m looking to collaborate on non-profitable/profitable projects in Education and Science
+- 👯 I’m looking for collaboration in non-profit/commercial projects in Education and Science
 - 👩 Pronouns: she / her
 
