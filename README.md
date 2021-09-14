@@ -1,8 +1,3 @@
 ### Hi there 👋 I am Marie
 
-And I am a career changer. 
-
-- 🌱 I’m currently pursuing a Front-End Developer career
-- 👯 I’m looking for collaboration in non-profit/commercial projects in Education or Science
-- 👩 Pronouns: she / her
-
+- I’m currently studying at [Rolling Scopes School](https://github.com/rolling-scopes-school)
