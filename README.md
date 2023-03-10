@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Marie
 
-I have recently started my internship🥳 as a Frontend Developer.
+Iam a Frontend Developer at digital agency based in th Netherlands.
 
 I have completed:
 - Frontend / JS course
